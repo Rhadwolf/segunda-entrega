@@ -9,11 +9,11 @@ body{
 }
 @font-face {
     font-family: "Righteous-Regular";
-    src: url(/fonts/PatuaOne-Regular.ttf);
+    src: url(../fonts/Righteous-Regular.ttf);
 }
 @font-face {
     font-family: "PatuaOne-Regular";
-    src: url(/fonts/PatuaOne-Regular.ttf);
+    src: url(../fonts/PatuaOne-Regular.ttf);
 }
 h1, h2, h3, h4{
     font-family: "PatuaOne-Regular";
@@ -79,7 +79,7 @@ margin: 20px auto;
     color: aliceblue;
 }
 .section1{
-    background-image: url(/img/nutricion8.jpg);
+    background-image: url(../img/nutricion8.jpg);
     height: 500px;
     background-attachment: fixed;
     background-position: center;
@@ -90,7 +90,7 @@ margin: 20px auto;
 }
 
 .section2{
-    background-image: url(/img/nutricion5.jpg);
+    background-image: url(../img/nutricion5.jpg);
     height: 500px;
     background-attachment: fixed;
     background-position: center;
@@ -100,7 +100,7 @@ margin: 20px auto;
     margin: 50px;
 }
 .section3{
-    background-image: url(/img/Nutricion4.webp);
+    background-image: url(../img/Nutricion4.webp);
     height: 500px;
     background-attachment: fixed;
     background-position: center;
@@ -110,7 +110,7 @@ margin: 20px auto;
     margin: 50px;
 }
 .section4{
-    background-image: url(/img/bio2.jpg);
+    background-image: url(../img/bio2.jpg);
     height: 500px;
     background-attachment: fixed;
     background-position: center;
@@ -119,7 +119,7 @@ margin: 20px auto;
     padding: 30px;
     margin: 50px;
 }.section5{
-    background-image: url(/img/nutricion6.jpg);
+    background-image: url(../img/nutricion6.jpg);
     height: 500px;
     background-attachment: fixed;
     background-position: center;
@@ -134,7 +134,7 @@ margin: 20px auto;
     background-color:   rgba(0, 100, 0, 0.37);
 }
 .section6{
-    background-image: url(/img/nutricion7.jpg);
+    background-image: url(../img/nutricion7.jpg);
     height: 500px;
     background-attachment: fixed;
     background-position: center;
