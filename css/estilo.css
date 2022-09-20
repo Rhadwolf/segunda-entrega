@@ -25,7 +25,7 @@ h1{font-size: 3rem;}
 h3{ font-size: 2.2rem;}
 .logo{
     
-    width: 500px;
+    width: 30%;
     border-radius: 50%;
     
 }
@@ -80,7 +80,7 @@ margin: 20px auto;
 }
 .section1{
     background-image: url(../img/nutricion8.jpg);
-    height: 500px;
+    height: 50%;
     background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
@@ -91,7 +91,7 @@ margin: 20px auto;
 
 .section2{
     background-image: url(../img/nutricion5.jpg);
-    height: 500px;
+    height: 50%;
     background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
@@ -101,7 +101,7 @@ margin: 20px auto;
 }
 .section3{
     background-image: url(../img/Nutricion4.webp);
-    height: 500px;
+    height: 50%;
     background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
@@ -111,7 +111,7 @@ margin: 20px auto;
 }
 .section4{
     background-image: url(../img/bio2.jpg);
-    height: 500px;
+    height: 50%;
     background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
@@ -120,7 +120,7 @@ margin: 20px auto;
     margin: 50px;
 }.section5{
     background-image: url(../img/nutricion6.jpg);
-    height: 500px;
+    height: 50%;
     background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
@@ -135,7 +135,17 @@ margin: 20px auto;
 }
 .section6{
     background-image: url(../img/nutricion7.jpg);
-    height: 500px;
+    height: 50%;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 30px;
+    margin: 50px;
+}
+.section7{
+    background-image: url(../img/nutrición3.jpg);
+    height: 50%;
     background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
